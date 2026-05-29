@@ -135,13 +135,13 @@ http://localhost:8080
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](home.png)
 
 ### 🔐 Login
-![Login Page](screenshots/login.png)
+![Login Page](login.png)
 
 ### 📝 Register
-![Register Page](screenshots/register.png)
+![Register Page](register.png)
 
 ---
 
